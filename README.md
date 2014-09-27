@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jenwilhelm/pokemon_ios/master/logo.png" alt="Pokemon iOS">
+<img src="https://raw.githubusercontent.com/jenwilhelm/pokemon_ios/master/logo.png" alt="Pokemon iOS" width="250">
 ===========
 
 ### Releases
