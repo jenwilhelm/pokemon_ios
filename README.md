@@ -5,7 +5,7 @@ Pokemon iOS
 
 Use ionic? Go native (swift?)?
 
-## MVP
+##### MVP
 1. Sign up (oAuth? custom account?)
 2. Login/Logout
 3. Find current location, list nearby locations (Foursquare, Google maps API?)
@@ -16,16 +16,16 @@ Use ionic? Go native (swift?)?
 8. Maintain history of when/where Pokemon spawned/who owned it?
 9. User Account (profile page, list of current Pokemon)
 
-## v2
+##### v2
 1. Trade Pokemon with players
 2. Add/remove friends
 
-## v3
+##### v3
 1. Items (Rare candy!)
 2. Ability to purchase items with real $?
 3. Do items spawn at check in?
 
-## v4
+##### v4
 1. Battle other players (friends? anyone?)
 
 ### Database structure
