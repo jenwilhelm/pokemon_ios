@@ -31,11 +31,12 @@ Use ionic? Go native (swift?)?
 ### Database structure
 
 User:
-    id
-    firstName
-    lastName
-    email
-    image
+
+id
+firstName
+lastName
+email
+image
 
 Parents (master list of all 700+ Pokemon)
 	id
