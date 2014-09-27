@@ -31,35 +31,35 @@ Use ionic? Go native (swift?)?
 ### Database structure
 
 **User**
-id
-firstName
-lastName
-email
-image
+- id
+- firstName
+- lastName
+- email
+- image
 
 **Parents** (master list of all 700+ Pokemon)
-id
-name
-image
-spawn_rate
+- id
+- name
+- image
+- spawn_rate
 
 **Pokemon** (spawned)
-id
-parent_id (from master list)
-user_id
-date_created
-location_ids (needs a better way to reference history)
-owner_ids (needs a better way to reference history)
+- id
+- parent_id (from master list)
+- user_id
+- date_created
+- location_ids (we need a better way to reference history)
+- owner_ids (we need a better way to reference history)
 
 **Location**
-id
-name
-lat
-long
-pokemon
-type (restaurant, retail, etc)
-date_created
-last_checkin
+- id
+- name
+- lat
+- long
+- pokemon_ids
+- type (restaurant, retail, etc)
+- date_created
+- last_checkin
 
 ### Tasks
 
