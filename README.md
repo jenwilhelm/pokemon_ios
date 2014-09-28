@@ -68,5 +68,6 @@ So that Jen doesn’t forget while she’s thinking of them. Trello board?
 * Enter all 700+ Pokemon into database (use a scraper for this?)
 * Decide spawn rates for each Pokemon
 * Decide which Pokemon go into Pokemon iOS & Pokemon Android
+    easy way of doing this is splitting it how Red/blue, Silver/Gold, Saphire/Ruby etc already do? With ones like Yellow and        Emerald in Windows?
 
 <img src="http://cdn.bulbagarden.net/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png">
