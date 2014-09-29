@@ -71,3 +71,5 @@ So that Jen doesn’t forget while she’s thinking of them. Trello board?
     easy way of doing this is splitting it how Red/blue, Silver/Gold, Saphire/Ruby etc already do? With ones like Yellow and        Emerald in Windows?
 
 <img src="http://cdn.bulbagarden.net/upload/thumb/e/e2/133Eevee.png/250px-133Eevee.png">
+<img src="http://cdn.bulbagarden.net/upload/3/3d/058Growlithe.png" width="250">
+
